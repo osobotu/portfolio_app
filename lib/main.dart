@@ -35,7 +35,7 @@ class PortfolioApp extends StatelessWidget {
                         backgroundImage: NetworkImage('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb-JfPkuinQqmay2_pI6Y1tKQa0XqykuVjUw&usqp=CAU'),
                       ),
                       title: Text(
-                          "Stephen Shelby",
+                          "Oduh Stephen Obotu",
                           style: TextStyle(fontWeight: FontWeight.bold)
                       ),
                       subtitle: Text(
